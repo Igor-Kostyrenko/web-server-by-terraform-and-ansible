@@ -45,3 +45,6 @@ After successful execution, you should see a newly created file named inventory 
 ```bash
 ansible-playbook -i inventory install_nginx.yaml
 ```
+![Screenshot 2024-10-15 at 20 44 34](https://github.com/user-attachments/assets/6bd0398c-53fc-45d0-9504-8a54749ce8c5)
+
+![Screenshot 2024-10-15 at 20 44 55](https://github.com/user-attachments/assets/014a7c0f-3342-4238-9c4a-f973c608ccd9)
