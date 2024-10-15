@@ -13,7 +13,7 @@ variable "aws_region" {
 
 variable "env_name" {
   type    = string
-  default = "study"
+  default = "dev"
 }
 
 variable "provisioner" {
