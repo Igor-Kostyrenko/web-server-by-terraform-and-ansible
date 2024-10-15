@@ -1,6 +1,7 @@
 
 provider "aws" {
-  region = var.aws_region
+  region  = var.aws_region
+  profile = "xevis4"
 
   default_tags {
     tags = {
